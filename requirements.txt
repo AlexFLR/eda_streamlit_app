@@ -1,3 +1,4 @@
-streamlit as st
-plotly.express as px
-numpy as np
+streamlit 
+plotly
+numpy
+pandas 
